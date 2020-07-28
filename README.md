@@ -3,7 +3,7 @@ Algorithm Using jest unit test library
 
 # Installation
 - clone Repository
-- npm init
+- npm install
 - npm run test
 
 ```ruby
